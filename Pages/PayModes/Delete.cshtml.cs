@@ -33,7 +33,7 @@ namespace SupermarketWEB.Pages.PayModes
 			}
 			else
 			{
-				PayMode = PayMode;
+				PayMode = payMode;
 			}
 			return Page();
 		}
